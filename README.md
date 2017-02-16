@@ -9,5 +9,5 @@ git config --global https.proxy proxy:port
 
 
 git add filename
-git commit
+git commit -m "comment"
 git push -u origin master
